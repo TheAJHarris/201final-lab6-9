@@ -1,0 +1,25 @@
+header {
+  background-color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(128, 0, 77);
+  text-align: center;
+}
+
+a {
+  color: black;
+  height: 40px;
+}
+
+body {
+  background-color: rgb(0, 126, 128);
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue; 
+}
+
+fieldset {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+}
